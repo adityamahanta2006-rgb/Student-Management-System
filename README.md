@@ -66,6 +66,3 @@ This project is highly relevant for students learning programming, as it deals w
   * **Modularity**: Clear separation of concerns (loading, saving, calculating, CRUD) into distinct functions.
   * **Data Validation and Search**: Implementing logic to check input quality and to locate specific records by name.
 
------
-
-Would you like me to focus on a specific function, like the `calculate_metrics()` logic, or maybe suggest potential **grading rubrics**?
